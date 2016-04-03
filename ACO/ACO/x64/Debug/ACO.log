@@ -1,0 +1,9 @@
+﻿  ACO.cpp
+d:\實驗室資料\ga\aco\aco\aco.cpp(26): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+d:\實驗室資料\ga\aco\aco\aco.cpp(98): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+  d:\實驗室資料\ga\aco\aco\aco.cpp(98): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+d:\實驗室資料\ga\aco\aco\aco.cpp(102): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+  d:\實驗室資料\ga\aco\aco\aco.cpp(102): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+d:\實驗室資料\ga\aco\aco\aco.cpp(108): warning C4474: 'scanf_s': 傳遞給格式字串的引數太多
+  d:\實驗室資料\ga\aco\aco\aco.cpp(108): note: 預留位置及其參數需要 1 個 variadic 引數，但卻提供了 2 個
+  ACO.vcxproj -> D:\實驗室資料\GA\ACO\x64\Debug\ACO.exe
